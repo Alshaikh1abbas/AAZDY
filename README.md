@@ -1,2 +1,0 @@
-# AAZDY
-IoT
