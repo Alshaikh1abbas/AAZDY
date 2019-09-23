@@ -1,0 +1,1 @@
+[{"id":"3bc4e4a7.35f1ec","type":"e-mail","z":"e93be2d1.9adb6","server":"smtp.gmail.com","port":"465","secure":true,"tls":true,"name":"anthonyvyos@gmail.com","dname":"","x":690,"y":180,"wires":[]}]
